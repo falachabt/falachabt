@@ -7,13 +7,14 @@ I'm a passionate full-stack developer and IoT enthusiast, constantly exploring n
 - 💻 Frontend: HTML, CSS, JavaScript, React, Next.js
 - 🖥 Backend: Node.js, Python, C++
 - 🤖 IoT Development
-- 🔄 DevOps
+- ☁️ DevOps
 - 🏗 Agile Methodology
 
 ## 🌱 Current Learning Focus
 - Deepening my React and Next.js expertise
 - Exploring advanced backend architectures with Node.js
 - Enhancing IoT integration skills
+- Mastering cloud technologies for scalable applications
 
 ## 💼 Looking to Collaborate
 I'm open to collaborating on innovative web development and IoT projects. If you have an exciting idea, let's connect!
